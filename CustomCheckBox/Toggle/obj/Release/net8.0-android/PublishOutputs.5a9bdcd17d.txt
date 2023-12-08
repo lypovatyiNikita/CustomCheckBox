@@ -1,0 +1,4 @@
+G:\Toggle\Toggle\bin\Release\net8.0-android\publish\com.companyname.toggle-Signed.aab
+G:\Toggle\Toggle\bin\Release\net8.0-android\publish\com.companyname.toggle.aab
+G:\Toggle\Toggle\bin\Release\net8.0-android\publish\com.companyname.toggle-Signed.apk
+G:\Toggle\Toggle\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
